@@ -1,0 +1,18 @@
+{
+    "description": "data used for the Chat Room application",
+    "numVisitors": 3,
+    "data": [
+      {
+        "name": "Subash",
+        "message": "Anyone here?"
+      },
+      {
+        "name": "Peter",
+        "message": "Hey Subash, How's it going?"
+      },
+      {
+        "name": "Guest3",
+        "message": "Hello?"
+      }
+    ]
+  }
